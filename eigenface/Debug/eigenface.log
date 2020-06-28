@@ -1,0 +1,7 @@
+﻿  eigenface.cpp
+C:\Users\runewalker\source\repos\eigenface\eigenface\eigenface.cpp(41,11): warning C4244:  'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\runewalker\source\repos\eigenface\eigenface\eigenface.cpp(41,11): warning C4244:         with
+C:\Users\runewalker\source\repos\eigenface\eigenface\eigenface.cpp(41,11): warning C4244:         [
+C:\Users\runewalker\source\repos\eigenface\eigenface\eigenface.cpp(41,11): warning C4244:             _Ty=double
+C:\Users\runewalker\source\repos\eigenface\eigenface\eigenface.cpp(41,11): warning C4244:         ]
+  eigenface.vcxproj -> C:\Users\runewalker\source\repos\eigenface\Debug\eigenface.exe
